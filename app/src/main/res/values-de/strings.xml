@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Days to Date</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="calculate">Berechnen</string>
+    <string name="days_to">musst Du %s mal schlafen</string>
+    <string name="from_date">Von diesem Tag</string>
+    <string name="from_higher_than_to">"Von" ist nach "Bis"</string>
+    <string name="to_date">zu diesem Tag</string>
+</resources>

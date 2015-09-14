@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Days to Date</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="from_date">From this date</string>
+    <string name="to_date">to that date</string>
+    <string name="days_to">You have to sleep %s nights</string>
+    <string name="calculate">Calculate</string>
+    <string name="from_higher_than_to">From is after to</string>
+</resources>
